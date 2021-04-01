@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.1
+
+### Patch Changes
+
+- [`372b8f485`](https://github.com/chakra-ui/chakra-ui/commit/372b8f485b1411ad3be694b0d5c4d466caca23b7)
+  [#3661](https://github.com/chakra-ui/chakra-ui/pull/3661) Thanks
+  [@navarroaxel](https://github.com/navarroaxel)! - Add docs for
+  `useOutsideClick` hook
+
 ## 1.2.0
 
 ### Minor Changes
